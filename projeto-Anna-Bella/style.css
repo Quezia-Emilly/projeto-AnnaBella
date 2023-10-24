@@ -1,0 +1,43 @@
+body {
+    background-image: url('imgs/fundo.png');
+    font-family: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px; /* Definição de uma largura padrão, assim, todos os componentes ocupar esse espaçamento */
+}
+
+#menu {
+    background: #c5c5c2; /*Cor de fundo*/
+    border: 0 solid; /* Borda */
+    padding: 15px; /* Criar espaço ao redor do conteúdo */
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none; /* Remove o underline */
+    padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
